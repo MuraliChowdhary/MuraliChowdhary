@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **React,tailwind CSS and how to effectively collaborate on coding projects and improve teamwork.**
 
-- 📫 How to reach me **https://www.linkedin.com/in/sudireddy-murali-05a10b277/?profileId=ACoAAEN4RoYBGj0x_UxdRRLOBflOkSs6pV2LRAE**
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sudireddy-murali-05a10b277/?profileId=ACoAAEN4RoYBGj0x_UxdRRLOBflOkSs6pV2LRAE)
 
 - ⚡ Fun fact **I love what I do and am passionate about coding!**
 
