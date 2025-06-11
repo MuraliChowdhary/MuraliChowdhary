@@ -11,7 +11,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently building: **SmartStock - An AI-powered Inventory Management System**
+
 - 🌱 Learning advanced **React** patterns, **Next.js**, and **AI integrations** for modern web apps
 - 💡 Exploring the future with **Web3**, **blockchain dApps**, and decentralized tech
 - 🧠 Interested in **AI/ML**, and integrating intelligent features into web solutions
@@ -20,13 +20,13 @@
 - 💬 Ask me about:  
   `React`, `Tailwind CSS`, `Next.js`, `MERN Stack`, and how to build scalable & maintainable apps
 - ⚡ Fun Fact:  
-  I’m not just passionate about tech — I live for creating innovative, impactful solutions 🚀
+  I’m not just passionate about tech — I live for creating innovative, impactful solutions 
 
 ### 🛠️ Technologies & Tools
 - **Frontend**: React.js, Next.js, Tailwind CSS, Redux Toolkit
 - **Backend**: Node.js, Express.js, MongoDB
 - **Other**: GitHub, Firebase, Web3.js, Solidity (learning), AI APIs
-- **Learning**: Web3 Development, AI Integration, TypeScript, and GraphQL
+- **Learning**: Web3 Development, AI Integration, TypeScript
 
 ---
 
