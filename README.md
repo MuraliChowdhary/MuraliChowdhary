@@ -1,17 +1,35 @@
 <h1 align="center">Hi 👋, I'm Murali Sudireddy</h1>
-<h3 align="center">Hi there! 👋 I’m a passionate Full Stack Developer with a strong knowledge of the MERN stack. Driven by curiosity, I love exploring new technologies and am particularly enthusiastic about Web 3 and open-source projects. I’m always eager to learn and collaborate on innovative solutions that make a difference!</h3>
+<h3 align="center">
+  Passionate Full Stack Developer | MERN Stack Enthusiast | Exploring Web3, AI, and Open Source 🌐🚀
+</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muralichowdhary&label=Profile%20views&color=0e75b6&style=flat" alt="muralichowdhary" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=muralichowdhary&label=Profile%20views&color=0e75b6&style=flat" alt="muralichowdhary" />
+</p>
 
-- 🔭 I’m currently working on **Smart Stock Inventory Management System**
+---
 
-- 🌱 I’m currently learning **React to build more dynamic and scalable web applications.**
+### 👨‍💻 About Me
 
-- 👯 I’m looking to collaborate on **open-source projects that focus on web development and innovative technologies.**
+- 🔭 Currently building: **SmartStock - An AI-powered Inventory Management System**
+- 🌱 Learning advanced **React** patterns, **Next.js**, and **AI integrations** for modern web apps
+- 💡 Exploring the future with **Web3**, **blockchain dApps**, and decentralized tech
+- 🧠 Interested in **AI/ML**, and integrating intelligent features into web solutions
+- 👯 Open to collaborating on: **Open-source projects**, especially in MERN, Web3, and AI domains
+- 🤝 Looking for guidance and collaboration on best practices in teamwork and large-scale development
+- 💬 Ask me about:  
+  `React`, `Tailwind CSS`, `Next.js`, `MERN Stack`, and how to build scalable & maintainable apps
+- ⚡ Fun Fact:  
+  I’m not just passionate about tech — I live for creating innovative, impactful solutions 🚀
 
-- 🤝 I’m looking for help with **open-source projects and understanding best practices in collaboration**
+### 🛠️ Technologies & Tools
+- **Frontend**: React.js, Next.js, Tailwind CSS, Redux Toolkit
+- **Backend**: Node.js, Express.js, MongoDB
+- **Other**: GitHub, Firebase, Web3.js, Solidity (learning), AI APIs
+- **Learning**: Web3 Development, AI Integration, TypeScript, and GraphQL
 
-- 💬 Ask me about **React,tailwind CSS and how to effectively collaborate on coding projects and improve teamwork.**
+---
+
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sudireddy-murali-05a10b277/?profileId=ACoAAEN4RoYBGj0x_UxdRRLOBflOkSs6pV2LRAE)
 
