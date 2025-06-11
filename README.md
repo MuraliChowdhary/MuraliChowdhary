@@ -23,7 +23,7 @@
   I’m not just passionate about tech — I live for creating innovative, impactful solutions 
 
 ### 🛠️ Technologies & Tools
-- **Frontend**: React.js, Next.js, Tailwind CSS, Redux Toolkit
+- **Frontend**: React.js, Next.js, Tailwind CSS, Recoil
 - **Backend**: Node.js, Express.js, MongoDB
 - **Other**: GitHub, Firebase, Web3.js, Solidity (learning), AI APIs
 - **Learning**: Web3 Development, AI Integration, TypeScript
