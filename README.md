@@ -27,11 +27,6 @@ I'm a Full-Stack Developer specializing in the MERN stack, with a keen interest 
 -   👯 **Open to Collaboration:** I'm actively looking to contribute to **open-source projects** in the MERN, AI, and Web3 space.
 -   📫 **How to reach me:** **[sudireddymurali@gmail.com](mailto:sudireddymurali@gmail.com)** or on **[LinkedIn](https://www.linkedin.com/in/sudireddy-murali-05a10b277/)**.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muralichowdhary&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muralichowdhary&layout=compact&langs_count=8&theme=dracula" alt="Top Languages" height="170" />
-</p>
-
 ---
 
 ## 🛠️ My Tech Stack
@@ -79,10 +74,10 @@ I'm a Full-Stack Developer specializing in the MERN stack, with a keen interest 
   </tr>
 </table>
 
----
-## 🏆 Achievements
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muralichowdhary&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muralichowdhary&layout=compact&langs_count=8&theme=dracula" alt="Top Languages" height="170" />
+</p>
 
--   **🏅 4th Place, GDG Solution Challenge Hackathon:** Contributed to 'Annseva,' a food waste management system connecting donors and NGOs.
--   **🤖 Developed Discord Bot for YC-Backed Client:** Designed and deployed a custom bot to automate cross-promotions for Pick & Partner.
 
----
+
