@@ -23,7 +23,7 @@
 
 I'm a Full-Stack Developer specializing in the MERN stack, with a keen interest in pushing the boundaries of technology. I thrive on solving complex problems and turning innovative ideas into reality, whether it's optimizing performance with serverless architecture or exploring the decentralized future with Web3.
 
--   🌱 **Currently Learning:** Advanced **Next.js**, **AI/ML integration**, and **Web3 development** with Ethers.js & Solana.
+-   🌱 **Currently Learning:** Advanced **Next.js**, **AI/ML integration**, and **Web3 development**.
 -   👯 **Open to Collaboration:** I'm actively looking to contribute to **open-source projects** in the MERN, AI, and Web3 space.
 -   📫 **How to reach me:** **[sudireddymurali@gmail.com](mailto:sudireddymurali@gmail.com)** or on **[LinkedIn](https://www.linkedin.com/in/sudireddy-murali-05a10b277/)**.
 
