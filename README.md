@@ -5,10 +5,10 @@
   <a href="https://www.linkedin.com/in/sudireddy-murali-05a10b277/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://x.com/Murali74589308" target="_blank">
+  <a href="https://x.com/MSudireddy2547" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="mailto:sudireddymurali@gmail.com">
+  <a href="mailto:muralisudireddy0@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
@@ -80,19 +80,6 @@ I'm a Full-Stack Developer specializing in the MERN stack, with a keen interest 
 </table>
 
 ---
-
-## 🚀 Featured Projects
-
-| Project                                     | Description                                                                                             | Tech Stack                                       | Links                                                              |
-| ------------------------------------------- | ------------------------------------------------------------------------------------------------------- | ------------------------------------------------ | ------------------------------------------------------------------ |
-| **AnnSeva - Zero Hunger Platform** | An intelligent matching system to reduce food waste by 40% and improve delivery efficiency by 60%.        | `React`, `Node.js`, `MongoDB`, `Fast2SMS`        | [**Live Demo**](https://annseva-si6t.onrender.com/)                 |
-| **AI-Powered Inventory System** | An AI platform using Scikit-learn for demand forecasting, optimizing stock levels by 55%.               | `React`, `Node.js`, `PostgreSQL`, `Scikit-learn` | [**Live Demo**](https://inventorysolutions.vercel.app)             |
-| **MultiVault HD Wallet** | A non-custodial HD wallet for Ethereum with multi-account management, built from scratch.               | `Next.js`, `TypeScript`, `Ethers.js`, `BIP-44`   | [**Live Demo**](https://multi-vault.vercel.app/)                   |
-| **Gible - DEX Aggregator** | A DEX aggregator on Solana for best-price swaps, leveraging the Jupiter API.                            | `Next.js`, `TypeScript`, `Solana`, `Jupiter API` | [**Live Demo**](https://gible.vercel.app/)                         |
-| **Serverless Newsletter Platform** | A high-performance serverless blog using Next.js and Hono, achieving sub-100ms response times.          | `Next.js`, `Hono`, `Cloudflare Workers`, `Prisma`| [**Live Demo**](https://blog-newsletter-lemon.vercel.app/)         |
-
----
-
 ## 🏆 Achievements
 
 -   **🏅 4th Place, GDG Solution Challenge Hackathon:** Contributed to 'Annseva,' a food waste management system connecting donors and NGOs.
