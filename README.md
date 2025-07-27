@@ -75,8 +75,12 @@ I'm a Full-Stack Developer specializing in the MERN stack, with a keen interest 
 </table>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muralichowdhary&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muralichowdhary&layout=compact&langs_count=8&theme=dracula" alt="Top Languages" height="170" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=MuraliChowdhary&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuraliChowdhary&layout=compact&theme=tokyonight" />
+  </a>
 </p>
 
 
